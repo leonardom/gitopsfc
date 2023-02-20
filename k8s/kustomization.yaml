@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: leonardom/gitopsfc
-  newTag: 507bb6855eb17bcbe0bb010f1fff6ae98b36f766
+  newTag: 1e90ba9d514225530b4017343abdb673f8fb97dd
